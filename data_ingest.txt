@@ -4,3 +4,6 @@ just adding again in master to check how rebase works during mergen ie fast forw
 
 
 i inserted a new line
+
+
+checking how rebase works
