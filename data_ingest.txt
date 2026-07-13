@@ -1,6 +1,6 @@
 this is another ingestion file
 ingested in wrong .Currently, ingesting here now in the same line not inserting a new line.
-just adding again in master to check how rebase works during mergen ie fast forward merge or 3 way merge
+just adding again in master to check how rebase works during mergen ie fast forward merge or 3 way merge . god knows what will happen
 
 
 i inserted a new line
