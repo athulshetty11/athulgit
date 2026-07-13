@@ -7,3 +7,4 @@ i inserted a new line
 
 
 checking how rebase works
+checking how rebase works 2
