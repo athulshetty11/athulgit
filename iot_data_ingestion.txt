@@ -2,3 +2,6 @@ i am ingesting real time data.
 git status
 new data ingested
 git status
+
+
+new rewal time
